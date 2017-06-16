@@ -1,5 +1,3 @@
 # my-website
-This is a really pretty awesome website
 
-Release 1.0 Blue
-
+This is a new readme file that replaced the other ones
